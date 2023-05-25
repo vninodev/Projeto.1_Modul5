@@ -8,7 +8,7 @@
 header {
     padding: 16px 0 ; 
     background-color: #182c61;
-    color: aliceblue;
+    color: #fff;
 }
 
 header,
@@ -31,7 +31,7 @@ header nav li {
 }
 
 header nav li a {
-    color: azure ;
+    color: #fff ;
     text-decoration: none;
 }
 
@@ -145,5 +145,5 @@ footer {
     background-color: #182c61;
     color: #fff;
     padding: 16px 0;
-    
+
 }
